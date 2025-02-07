@@ -6,7 +6,7 @@ Sono un appassionato di **programmazione** e **cybersecurity**. Attualmente sto 
 
 
 ## 📬 Contatti
-- LinkedIn: [Linkedin]([link](https://www.linkedin.com/in/mattia-esposito-33744933a/))
+-[Linkedin]([link](https://www.linkedin.com/in/mattia-esposito-33744933a/))
 
 ---
 
