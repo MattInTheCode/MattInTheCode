@@ -16,10 +16,10 @@ Sono un appassionato di **programmazione** e **cybersecurity**. Attualmente sto 
 ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C88?style=flat&logo=kali-linux&logoColor=white)
 
 ---
-*Io nella fase  di debugging...*
----
 
-![Gandalf GIF](https://media1.tenor.com/m/H2GZj21Q91YAAAAC/gandalf-lord-of-the-rings.gif)
+<img src="https://media1.tenor.com/m/H2GZj21Q91YAAAAC/gandalf-lord-of-the-rings.gif" width="103" height="51.5" alt="Gandalf GIF" style="max-width: 103px;">
+
+<p>Io nella Fase di debugging...</p>
 
 
 ---
