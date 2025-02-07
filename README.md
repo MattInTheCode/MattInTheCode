@@ -17,9 +17,10 @@ Sono un appassionato di **programmazione** e **cybersecurity**. Attualmente sto 
 
 ---
 
-<img src="https://media1.tenor.com/m/H2GZj21Q91YAAAAC/gandalf-lord-of-the-rings.gif" width="103" height="51.5" alt="Gandalf GIF" style="max-width: 103px;">
+*Io durante la Fase di debugging...*
 
-<p>Io nella Fase di debugging...</p>
+![Gandalf GIF](https://media1.tenor.com/m/H2GZj21Q91YAAAAC/gandalf-lord-of-the-rings.gif)
+
 
 
 ---
