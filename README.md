@@ -1,16 +1,26 @@
-## Hi there 👋
+## Welcome to my world
 
-<!--
-**MattInTheCode/MattInTheCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Sono un appassionato di **programmazione** e **cybersecurity**. Attualmente sto approfondendo **Python** e **machine learning**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+## 📬 Contatti
+- LinkedIn: [Linkedin]([link](https://www.linkedin.com/in/mattia-esposito-33744933a/))
+
+---
+![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=mattiaesposito&theme=react-dark)
+
+
+## Language & Technologies
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C88?style=flat&logo=kali-linux&logoColor=white)
+
+---
+##Io nella fase di debugging
+![Gandalf GIF](https://media1.tenor.com/m/H2GZj21Q91YAAAAC/gandalf-lord-of-the-rings.gif)
+
+---
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mattiaesposito&show_icons=true&theme=radical)
+
+
