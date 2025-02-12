@@ -24,9 +24,6 @@ Sono un appassionato di **programmazione** e **cybersecurity**. Attualmente sto 
 
 ---
 
-![Gandalf GIF](https://media1.tenor.com/m/H2GZj21Q91YAAAAC/gandalf-lord-of-the-rings.gif)
-
----
 *Io durante la Fase di debugging...*
 
 ![Gandalf GIF](https://media1.tenor.com/m/H2GZj21Q91YAAAAC/gandalf-lord-of-the-rings.gif)
