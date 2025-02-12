@@ -8,19 +8,15 @@ Sono un appassionato di **programmazione** e **cybersecurity**. Attualmente sto 
 
 
 
-### Sistemi Operativi
-- **Windows:** <img src="https://img.icons8.com/color/48/000000/windows-10.png" alt="Windows" width="20" />  
-  Configurazione, gestione e automazione tramite PowerShell.
-- **Linux:** <img src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux" width="20" />  
-  Amministrazione di server, scripting Bash e ottimizzazione delle performance.
-- **Kali Linux:** <img src="https://upload.wikimedia.org/wikipedia/commons/d/dc/Kali_Linux_Logo.svg" alt="Kali Linux" width="20" />  
-  Penetration testing, valutazione delle vulnerabilità e analisi della sicurezza.
+## Competenze Tecniche
 
-### Programmazione & Database
-- **Python:** <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="20" />  
-  Automazione, sviluppo di applicazioni web, elaborazione dati e tool di sicurezza.
-- **SQL:** <img src="https://img.icons8.com/color/48/000000/sql.png" alt="SQL" width="20" />  
-  Progettazione e gestione di database, ottimizzazione delle query e modellazione dati.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="Windows" width="40" style="margin-right: 10px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" style="margin-right: 10px;" />
+  <img src="https://cdn.worldvectorlogo.com/logos/kali-linux-1.svg" alt="Kali Linux" width="40" style="margin-right: 10px;" />
+  <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python" width="40" style="margin-right: 10px;" />
+  <img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" alt="SQL" width="40" />
+</p>
 
 ---
 
