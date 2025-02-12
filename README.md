@@ -3,18 +3,21 @@
 
 Sono un appassionato di **programmazione** e **cybersecurity**. Attualmente sto approfondendo **Python** e **machine learning**.
 
+## Sistemi Operativi
 
-## Sistemi Operativ
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="Windows" width="40" style="margin-right: 10px;" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" style="margin-right: 10px;" />
-<img src="https://cdn.worldvectorlogo.com/logos/kali-linux.svg" alt="Kali Linux" width="40" style="margin-right: 10px;" />
+- **Windows:**  
+  ![Windows](https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg)
+- **Linux:**  
+  ![Linux](https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg)
+- **Kali Linux:**  
+  ![Kali Linux](https://cdn.worldvectorlogo.com/logos/kali-linux.svg)
 
 ## Linguaggi di Programmazione & Database
 
-<img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python" width="40" style="margin-right: 10px;" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="SQL" width="40" style="margin-right: 10px;" />
-</p>
-
+- **Python:**  
+  ![Python](https://cdn.worldvectorlogo.com/logos/python-5.svg)
+- **SQL:**  
+  ![SQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg)
 ---
 
 *Io durante la Fase di debugging...*
